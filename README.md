@@ -1,5 +1,5 @@
 - [SQL Server Setup](SQL-Server-Setup)
-- [Download](Downloads)
+- [Download](mailto:admin@hiveapps.io)
 - [Install](Install.md)
   - [Prerequisites](Install.md#prerequisites)
   - [Create Database](Install.md#create-database)
