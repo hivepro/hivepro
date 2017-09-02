@@ -4,3 +4,5 @@
 - [Create Project](Create-Project)
 - [Add Integration](Add-Integratiin)
 - [Publish PowerBI Dashboard](Publish-PowerBI-Dashboard)
+
+[License](License)
