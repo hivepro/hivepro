@@ -1,1 +1,5 @@
-# public
+[Download](Downloads)
+[SQL Server Setup](SQL-Server-Setup)
+[Create Project](Create-Project)
+[Add Integration](Add-Integratiin)
+[Publish PowerBI Dashboard](Publish-PowerBI-Dashboard)
