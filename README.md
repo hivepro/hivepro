@@ -10,7 +10,7 @@
   - [Add a Project](Install.md#add-a-project)
   - [Add an Integration](Install.md#add-an-integration)
   - [Verify Data Feed](Install.md#verify-data-feed)
-- [Publish PowerBI Dashboard](Publish-PowerBI-Dashboard)
+- [Publish PowerBI Dashboard](Publish-PowerBI-Dashboard.md)
 
 ---
 
