@@ -1,3 +1,7 @@
+---
+title: Publish PowerBI Dashboard
+layout: default
+---
 # Publish PowerBI Dashboard
 
 - Download **Hive.DataSource.xml**, and save to the root of your C:\
