@@ -14,4 +14,4 @@
 
 ---
 
-- [License](License.md)
+- [License](License)
