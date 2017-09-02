@@ -1,5 +1,6 @@
+### Setup
 - [SQL Server Setup](SQL-Server-Setup)
-- <a href="mailto:admin@hiveapps.io?subject=HivePro Trial Request&body=Please sent me a link to download the HivePro Installer">Download</a>
+- <a href="mailto:admin@hiveapps.io?subject=HivePro: Evaluation Request&body=Please sent me a link to download the HivePro Installer.">Download</a>
 - [Install](Install.md)
   - [Prerequisites](Install.md#prerequisites)
   - [Create Database](Install.md#create-database)
@@ -11,6 +12,32 @@
   - [Add an Integration](Install.md#add-an-integration)
   - [Verify Data Feed](Install.md#verify-data-feed)
 - [Publish PowerBI Dashboard](Publish-PowerBI-Dashboard.md)
+
+---
+
+### Supported Integrations / Data
+- GitHub
+  - Commits
+  - Repositories
+- JIRA
+  - IssueActivity
+  - Issues
+  - Status
+  - Users
+- PivotalTracker
+  - Members
+  - Projects
+  - Stories
+  - StoryActivity
+  - StoryComments
+  - StoryLabels
+  - Tasks
+- TeamCity
+  - Builds
+  - BuildStatistics
+- Jenkins
+  - CodeCoverage
+  - Runs
 
 ---
 
