@@ -1,5 +1,5 @@
 - [SQL Server Setup](SQL-Server-Setup)
-- [Download](mailto:admin@hiveapps.io)
+- [Download](mailto:admin@hiveapps.io?subject=HivePro Trial Request&body=Please sent me a link to download the HivePro Installer)
 - [Install](Install.md)
   - [Prerequisites](Install.md#prerequisites)
   - [Create Database](Install.md#create-database)
