@@ -6,7 +6,7 @@ Requirement|Details|
 **SQL Server**|SQL Server 2014 (Express or better)<br>SQL Server 2016 (Express or better)|
 **Information**|SQL Server / Instance (host address and instance name)<br>SQL Server Credentials for Server Administrator<br>Proxy Server (Server Address and Port, if required for outbound internet connectivity)<br>Name and Email Address|
 
-**REFERENCE:** [**SQL Server Setup**](https://github.com/dmellenthin/Hive/wiki/SQL-Server-Setup) for instructions to install and configure **SQL Server** and **SQL Server Management Studio**.  If the database will be hosted in Azure, use the Server Administrator credentials with an instance of **SQL Server Management Studio** (on any machine), to proceed with the processes below.
+**REFERENCE:** [**SQL Server Setup**](SQL-Server-Setup) for instructions to install and configure **SQL Server** and **SQL Server Management Studio**.  If the database will be hosted in Azure, use the Server Administrator credentials with an instance of **SQL Server Management Studio** (on any machine), to proceed with the processes below.
 
 ### Create Database
 - Open **SQL Server Management Studio**
