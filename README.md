@@ -16,15 +16,15 @@
 ---
 
 ### Supported Integrations / Data
-- GitHub
+- **GitHub**
   - Commits
   - Repositories
-- JIRA
+- **JIRA**
   - IssueActivity
   - Issues
   - Status
   - Users
-- PivotalTracker
+- **PivotalTracker**
   - Members
   - Projects
   - Stories
@@ -32,10 +32,10 @@
   - StoryComments
   - StoryLabels
   - Tasks
-- TeamCity
+- **TeamCity**
   - Builds
   - BuildStatistics
-- Jenkins
+- **Jenkins**
   - CodeCoverage
   - Runs
 
