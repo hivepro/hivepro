@@ -14,4 +14,4 @@ layout: default
 1. Wait for the Refresh process to complete
 1. Click **Publish**
 
-**_NOTE:_** Template.pbix contains Queries for the data in Tables collected for configured Integrations, but it does not contain any Reports.
+**_NOTE:_** Template.pbix contains Queries for the data collected into all Tables for configured Integrations, but it does not contain any Reports.
