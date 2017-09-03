@@ -1,3 +1,6 @@
+### How it works
+Follow the step-by-step instructions to setup the application On-Premises, connected to a SQL Database in Azure.  This provides a basic Web Application for configuration, and a Windows Service for automated data collection for the tools and projects that you choose. At a specified frequency, the Service will collect the data from those tools, and store it to your database (no need for additional gateways or connectivity configuration).
+
 ### Setup
 - [SQL Server Setup](SQL-Server-Setup)
 - <a href="mailto:admin@hiveapps.io?subject=HivePro: Evaluation Request&body=Please sent me a link to download the HivePro Installer.">Download</a>
