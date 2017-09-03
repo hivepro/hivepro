@@ -1,6 +1,8 @@
-## Configure Integrtions
+## Configure Integrations
 
-### Add an Integration for GitHub
+Optionally add any number of Integrations for any project (you may add multiple Third-Party Projects of the same Product a HivePro Project, and the same Third-Party projects may be associated with any number of HivePro Projects).
+
+### GitHub
 - Within the Project Details page for a Project within the HivePro Web Application, click **Add Integration**
 - For **Type**, select **SourceControl**
 - For **Product**, select **GitHub**
@@ -11,7 +13,7 @@
 - Enter the **Password**
 - Click **Save**
 
-### Add an Integration for JIRA
+### JIRA
 - Within the Project Details page for a Project within the HivePro Web Application, click **Add Integration**
 - For **Type**, select **ProjectManagement**
 - For **Product**, select **JIRA**
@@ -21,7 +23,7 @@
 - Enter the **Password**
 - Click **Save**
 
-### Add an Integration for PivotalTracker
+### PivotalTracker
 - Within the Project Details page for a Project within the HivePro Web Application, click **Add Integration**
 - For **Type**, select **ProjectManagement**
 - For **Product**, select **PivotalTracker**
@@ -29,7 +31,7 @@
 - Enter the **ApiToken** (to be used for read operations)
 - Click **Save**
 
-### Add an Integration for Jenkins
+### Jenkins
 - Within the Project Details page for a Project within the HivePro Web Application, click **Add Integration**
 - For **Type**, select **ContinuousIntegration**
 - For **Product**, select **Jenkins**
@@ -41,7 +43,7 @@
 - Enter the **Password**
 - Click **Save**
 
-### Add an Integration for TeamCity
+### TeamCity
 - Within the Project Details page for a Project within the HivePro Web Application, click **Add Integration**
 - For **Type**, select **ContinuousIntegration**
 - For **Product**, select **TeamCity**
