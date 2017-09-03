@@ -13,3 +13,5 @@ layout: default
 - Within the **Privacy levels** dialog, select **Orgainizational** for both **C:\\** and the SQL Server, then click **Save**
 - Wait for the Refresh process to complete
 - Click **Publish**
+
+**_NOTE:_** Template.pbix contains Queries for the data in Tables collected for configured Integrations, but it does not contain any Reports.
