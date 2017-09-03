@@ -2,7 +2,7 @@
 
 Within the Project Details page for a Project within the HivePro Web Application, you may optionally add any number of Integrations to HivePro Projects.
 
-<br>**_NOTE:_** You may add multiple Third-Party Projects of the same Product to a HivePro Project, and the same Third-Party Projects may be associated with any number of HivePro Projects.
+**_NOTE:_** You may add multiple Third-Party Projects of the same Product to a HivePro Project, and the same Third-Party Projects may be associated with any number of HivePro Projects.
 
 ### GitHub
 - Click **Add Integration**
