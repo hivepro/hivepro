@@ -1,10 +1,11 @@
 ## Configure Integrations
 
-Optionally add any number of Integrations to HivePro Projects.
+Within the Project Details page for a Project within the HivePro Web Application, you may optionally add any number of Integrations to HivePro Projects.
+
 <br>**_NOTE:_** You may add multiple Third-Party Projects of the same Product to a HivePro Project, and the same Third-Party Projects may be associated with any number of HivePro Projects.
 
 ### GitHub
-- Within the Project Details page for a Project within the HivePro Web Application, click **Add Integration**
+- Click **Add Integration**
 - For **Type**, select **SourceControl**
 - For **Product**, select **GitHub**
 - Enter the **Server URL** (hostname / IP, and port if applicable; or "https://github.com")
@@ -15,7 +16,7 @@ Optionally add any number of Integrations to HivePro Projects.
 - Click **Save**
 
 ### JIRA
-- Within the Project Details page for a Project within the HivePro Web Application, click **Add Integration**
+- Click **Add Integration**
 - For **Type**, select **ProjectManagement**
 - For **Product**, select **JIRA**
 - Enter the **Server URL** (hostname / IP, and port if applicable; or JIRA Cloud site URL)
@@ -25,7 +26,7 @@ Optionally add any number of Integrations to HivePro Projects.
 - Click **Save**
 
 ### PivotalTracker
-- Within the Project Details page for a Project within the HivePro Web Application, click **Add Integration**
+- Click **Add Integration**
 - For **Type**, select **ProjectManagement**
 - For **Product**, select **PivotalTracker**
 - Enter the **ProjectID**
@@ -33,7 +34,7 @@ Optionally add any number of Integrations to HivePro Projects.
 - Click **Save**
 
 ### Jenkins
-- Within the Project Details page for a Project within the HivePro Web Application, click **Add Integration**
+- Click **Add Integration**
 - For **Type**, select **ContinuousIntegration**
 - For **Product**, select **Jenkins**
 - Enter the **Server URL** (hostname / IP, and port if applicable)
@@ -45,7 +46,7 @@ Optionally add any number of Integrations to HivePro Projects.
 - Click **Save**
 
 ### TeamCity
-- Within the Project Details page for a Project within the HivePro Web Application, click **Add Integration**
+- Click **Add Integration**
 - For **Type**, select **ContinuousIntegration**
 - For **Product**, select **TeamCity**
 - Enter the **Server URL** (hostname / IP, and port if applicable)
