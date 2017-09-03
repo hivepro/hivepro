@@ -8,7 +8,7 @@
 <br>**_TAKE NOTE:_** The specified **Database name** will be used within the HivePro install process
 1. For the **Resource group**, you may **Create new** or **Use existing**
 1. For the **Server**, choose an existing Server, or **Create a new server**
-1. For the **Pricing tier**, we recommend you choose **Basic**
+1. For the **Pricing tier**, we recommend **Basic**
 1. Click **Create**
 1. Wait a few moments for the Azure deployment to complete, then refresh the **SQL databases** panel
 1. Click on the database that was created
