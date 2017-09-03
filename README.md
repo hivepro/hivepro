@@ -10,7 +10,7 @@ This application, including all data and communication, is maintained within you
 - [Procure a SQL Server Database](SQL-Server-Setup)
 - [Install the Web Application and Windows Service](Install.md)
 - [Configure a Project](Install.md#add-a-project)
-- [Publish PowerBI Dashboard](Publish-PowerBI-Dashboard.md)
+- [Publish a PowerBI Dashboard](Publish-PowerBI-Dashboard.md)
 
 ---
 
