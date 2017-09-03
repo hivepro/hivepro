@@ -1,7 +1,7 @@
 ## Procure a SQL Server Database
 
 ### Create Database
-1. Login to https://portal.azure.com
+1. Login to [https://portal.azure.com](https://portal.azure.com)
 1. From the Resources panel on the left, click on **SQL databases**
 1. Click **Add**
 1. Enter a **Database name** (i.e. "hivepro")
