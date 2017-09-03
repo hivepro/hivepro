@@ -1,7 +1,7 @@
 ## How it works
-Follow the step-by-step instructions to setup the application, connecting to a SQL Database hosted in Azure.  This provides a Web Application for configuration, and a Windows Service for automated data collection for the tools and projects that you choose.  At a specified frequency, the Service will collect the data from those tools, and store it to your database (no need for additional gateways or connectivity configuration).  Then download a template to build PowerBI Dashboards, preconfigured with queries for each supported tool (in the future, we will provide additional preconfigured Dashboards).
+Follow the step-by-step instructions to setup the application, connecting to a SQL Database hosted in Azure.  This provides a Web Application for configuration, and a Windows Service for automated data collection for the tools and projects that you choose.  At a specified frequency, the Service will collect the data from those tools, and store it to your database (there is no need for additional gateways or connectivity configuration).  Then download a PowerBI Dashboard template to build and publish reports.
 
-This application, including all data and communication, is maintained within your network; it does not transmit any data externally.
+This application, including all data and communication, is maintained within your network (it does not transmit data externally).
 
 ---
 
