@@ -9,7 +9,8 @@ This application, including all data and communication, is maintained within you
 - <a href="mailto:admin@hiveapps.io?subject=HivePro: Evaluation Request&body=Please sent me a link to download the HivePro Installer.">Download the Installer</a>
 - [Procure a SQL Server Database](Procure-a-SQL-Server-Database.md)
 - [Install the Application](Install.md)
-- [Configure a Project](Install.md#add-a-project)
+- [Add a Project](Add-a-Project.md)
+- [Configure Integrations](Configure-Integrations.md)
 - [Publish a PowerBI Dashboard](Publish-PowerBI-Dashboard.md)
 
 ---
