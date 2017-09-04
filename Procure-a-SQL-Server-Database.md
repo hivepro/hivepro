@@ -16,7 +16,7 @@
 
 ### Choose a Database User
 Decide which of the following options you prefer for Database Credentials:
-- You may use the SQL Server Administrator credentials for installing and running HivePro.  If you choose this option, no additional database administration is required; you may proceed directly to [Install HivePro](Install.md).
+- You may use the SQL Server Administrator credentials for installing and running HivePro.  If you choose this option, no additional database administration is required; you may proceed directly to [Install HivePro](Install.md#install-the-application).
 - You may create a new user specifically for HivePro and the database you created.  If you choose this option, proceed to [Create a Database User](Procure-a-SQL-Server-Database.md#create-a-database-user) below.
 
 ### Create a Database User
@@ -34,5 +34,5 @@ Decide which of the following options you prefer for Database Credentials:
 
 ---
 
-Proceed to: [Install the Application](Install.md)
+Proceed to: [Install the Application](Install.md#install-the-application)
 <br>Back to: [Setup Procedures](README.md#setup-procedures)
