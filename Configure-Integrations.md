@@ -57,4 +57,4 @@ Within the Project Details page for a Project within the HivePro Web Application
 1. Click **Save**
 
 Proceed to: [Publish PowerBI Dashboard](Publish-PowerBI-Dashboard.md)
-Back to: [Setup Procedures](README.md#setup-procedures)
+<br>Back to: [Setup Procedures](README.md#setup-procedures)
