@@ -7,4 +7,4 @@
 
 ---
 
-Back to: [Install the Application](Install.md)
+Back to: [Install the Application](Install.md#verify-prerequisites)
