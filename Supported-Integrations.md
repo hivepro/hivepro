@@ -19,3 +19,7 @@ TeamCity|Builds|[API](https://confluence.jetbrains.com/display/TCD10/REST+API#RE
 TeamCity|BuildStatistics|[API](https://confluence.jetbrains.com/display/TCD10/REST+API#RESTAPI-Statistics)|
 Jenkins|CodeCoverage||
 Jenkins|Runs|[API](http://javadoc.jenkins.io/plugin/pipeline-rest-api/com/cloudbees/workflow/rest/endpoints/RunAPI.html)|
+
+---
+
+Back to: [Home](README.md#supported-integrations)
