@@ -19,7 +19,7 @@
 - You may create a new user specifically for HivePro and the database you created.  If you choose this option, proceed to [Create a Database User](Procure-a-SQL-Server-Database.md#create-a-database-user) below.
 
 ### Create a Database User
-1. Using SSMS, login as a user with permission to administer users and permissions on the SQL Server (i.e. sa)
+1. Using **SQL Server Management Studio**, login to the SQL Server as a user with permission to administer users and roles (i.e. sa)
 1. From the main menu, click **File \> New \> Query with Current Connection**
 1. Choose **master** from the **Available databases** drop-down
 1. In the **Query Editor** window, enter and execute:
