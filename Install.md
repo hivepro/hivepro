@@ -1,7 +1,7 @@
 ## Install the Application
 ### Verify Prerequisites
 
-System Requirement|Details|
+Requirement|Details|
 ------------ | ------------ |
 **Operating System**|Windows 8.1<br>Windows 10<br>Windows Server 2012 R2<br>Windows Server 2016|
 **SQL Server**|SQL Server 2014 (Express or better)<br>SQL Server 2016 (Express or better) [click here](SQL-Server-Setup.md) to install<br>Azure SQL Server and Database (Basic Pricing tier or better) [click here](Procure-a-SQL-Server-Database.md) to create a database|
