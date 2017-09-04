@@ -22,3 +22,5 @@ Requirement|Details|
 1. Click **Install**
 1. Click **Finish**, which should then launch the website in the default browser
 1. Login using the Email address specified during installation (default password: **administrator**)
+
+Back to: [Setup Procedures](README.md#setup-procedures)
