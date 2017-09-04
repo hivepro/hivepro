@@ -1,3 +1,4 @@
+## Install the Application
 ### Verify Prerequisites
 
 Requirement|Details|
@@ -23,4 +24,5 @@ Requirement|Details|
 1. Click **Finish**, which should then launch the website in the default browser
 1. Login using the Email address specified during installation (default password: **administrator**)
 
-Back to: [Setup Procedures](README.md#setup-procedures)
+Proceed to: [Add a Project](Add-a-Project.md)
+<br>Back to: [Setup Procedures](README.md#setup-procedures)
