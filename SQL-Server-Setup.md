@@ -1,6 +1,6 @@
 ## SQL Server Installation and Configuration
 
-Use of an On-Premises SQL Server may be used for evaluation and testing purposes.  PowerBI integration is not supported with this option (though it may be enabled using the PowerBI Gateway, PowerBI Premium, and additional configuration of the provided PowerBI Template / Dashboards).
+An On-Premise SQL Server may be used for evaluation and testing purposes.  PowerBI integration is not supported with this option (though it may be enabled using the PowerBI Gateway, PowerBI Premium, and additional configuration of the provided PowerBI Template / Dashboards).
 
 ### Install SQL Server
 1. Download [**SQL Server 2016 Express SP1**](http://www.microsoft.com/en-us/sql-server/sql-server-editions-express) (or better)
