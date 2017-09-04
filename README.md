@@ -15,12 +15,12 @@ This application, including all data and communication, is maintained within you
 
 Product|Hosting Options|
 ------ | ------------- |
-GitHub|On-Premise or github.com|
-JIRA|On-Premise or JIRA Cloud|
-PivotalTracker|pivotaltracker.com|
-TeamCity|On-Premise|
-Jenkins|On-Premise|
+**GitHub**|On-Premise or github.com|
+**JIRA**|On-Premise or JIRA Cloud|
+**PivotalTracker**|pivotaltracker.com|
+**TeamCity**|On-Premise|
+**Jenkins**|On-Premise|
 
-For additional details related to Integrations: [click here](Supported-Integrations.md)
+For more info about these Integrations: [click here](Supported-Integrations.md)
 
 ---
