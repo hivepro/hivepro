@@ -31,5 +31,7 @@
 1. In the **Query Editor** window, enter and execute:
 <br>`EXEC sp_addrolemember 'db_owner', 'hivepro';`
 
+---
+
 Proceed to: [Install the Application](Install.md)
 <br>Back to: [Setup Procedures](README.md#setup-procedures)
