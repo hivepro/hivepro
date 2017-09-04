@@ -12,9 +12,12 @@ This application, including all data and communication, is maintained within you
 - [Publish a PowerBI Dashboard](Publish-PowerBI-Dashboard.md)
 
 ## Supported Integrations
-[More Info](Supported-Integrations.md)
 - GitHub (On-Prem or github.com)
 - JIRA (On-Prem or JIRA Cloud)
 - PivotalTracker
 - TeamCity
 - Jenkins
+
+[More Info](Supported-Integrations.md)
+
+---
