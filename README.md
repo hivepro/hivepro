@@ -3,8 +3,6 @@ Follow the step-by-step instructions to setup the application, connecting to a S
 
 This application, including all data and communication, is maintained within your network (it does not transmit data externally).
 
----
-
 ## Setup Procedures
 - <a href="mailto:admin@hiveapps.io?subject=HivePro: Evaluation Request&body=Please sent me a link to download the HivePro Installer.">Download the Installer</a>
 - [Procure a SQL Server Database](Procure-a-SQL-Server-Database.md)
@@ -12,8 +10,6 @@ This application, including all data and communication, is maintained within you
 - [Add a Project](Add-a-Project.md)
 - [Configure Integrations](Configure-Integrations.md)
 - [Publish a PowerBI Dashboard](Publish-PowerBI-Dashboard.md)
-
----
 
 ## Supported Integrations
 - GitHub (On-Prem or github.com)
