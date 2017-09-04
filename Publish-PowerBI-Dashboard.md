@@ -16,4 +16,6 @@ layout: default
 
 **_NOTE:_** Template.pbix contains Queries for the data collected into all Tables for configured Integrations, but it does not contain any Reports.
 
+---
+
 Back to: [Setup Procedures](README.md#setup-procedures)
