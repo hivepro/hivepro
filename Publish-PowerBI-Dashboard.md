@@ -18,4 +18,4 @@ layout: default
 
 ---
 
-Back to: [Setup Procedures](README.md#setup-procedures)
+Back to: [Home](README.md)
