@@ -12,6 +12,7 @@ This application, including all data and communication, is maintained within you
 1. [Publish a PowerBI Dashboard](Publish-PowerBI-Dashboard.md)
 
 ## Supported Integrations
+
 Product|Hosting Options|
 ------ | ------------- |
 GitHub|On-Premise or github.com|
