@@ -1,4 +1,4 @@
-## Procure a SQL Server Database
+## Create a SQL Server Database in Azure
 
 ### Create Database
 1. Login to [https://portal.azure.com](https://portal.azure.com)
@@ -15,6 +15,7 @@
 <br>**_TAKE NOTE:_** The **Server name** will be used within the HivePro install process
 
 ### Choose a Database User
+Decide which of the following options you prefer for Database Credentials:
 - You may use the SQL Server Administrator credentials for installing and running HivePro.  If you choose this option, no additional database administration is required; you may proceed directly to [Install HivePro](Install.md).
 - You may create a new user specifically for HivePro and the database you created.  If you choose this option, proceed to [Create a Database User](Procure-a-SQL-Server-Database.md#create-a-database-user) below.
 
