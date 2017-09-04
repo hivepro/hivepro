@@ -5,4 +5,4 @@
 1. Click **Submit**
 
 Proceed to: [Configure Integrations](Configure-Integrations.md)
-Back to: [Setup Procedures](README.md#setup-procedures)
+<br>Back to: [Setup Procedures](README.md#setup-procedures)
