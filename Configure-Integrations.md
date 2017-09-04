@@ -55,3 +55,5 @@ Within the Project Details page for a Project within the HivePro Web Application
 1. Enter the **Username** (to be used for read operations)
 1. Enter the **Password**
 1. Click **Save**
+
+Back to: [Setup Procedures](README.md#setup-procedures)
