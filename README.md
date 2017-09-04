@@ -13,7 +13,7 @@ This application, including all data and communication, is maintained within you
 
 ## Supported Integrations
 Product|Hosting Options|
--------| --------------|
+------ | ------------- |
 GitHub|On-Premise or github.com|
 JIRA|On-Premise or JIRA Cloud|
 PivotalTracker|pivotaltracker.com|
