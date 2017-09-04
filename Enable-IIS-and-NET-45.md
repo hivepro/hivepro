@@ -7,4 +7,4 @@
 
 ---
 
-Back to: [Install the Application](install.md)
+Back to: [Install the Application](Install.md)
