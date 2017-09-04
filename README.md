@@ -24,3 +24,4 @@ Product|Hosting Options|
 For more info about these Integrations: [click here](Supported-Integrations.md)
 
 ---
+For more information, or to request a [License](License.md) extension, email: <a href="mailto:admin@hiveapps.io?subject=HivePro">admin@hiveapps.io</a>
