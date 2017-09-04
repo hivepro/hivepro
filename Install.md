@@ -3,10 +3,10 @@
 
 Requirement|Details|
 ------------ | ------------ |
-**Operating System**|Any one of:<br>- Windows 8.1<br>- Windows 10<br>- Windows Server 2012 R2<br>- Windows Server 2016|
-**SQL Server**|Any one of:<br>- SQL Server 2014 (Express or better)<br>- SQL Server 2016 (Express or better) [click here](SQL-Server-Setup.md) to install<br>- Azure SQL Server and Database (Basic Pricing tier or better) [click here](Procure-a-SQL-Server-Database.md) to create a database|
-**IIS with ASP.NET**|- ASP.NET 4.5 (Express or better) [click here](Enable-IIS-and-NET-45.md) to verify or install|
-**Information**|- SQL Server / Database (host address and instance name)<br>- Database Credentials (login and password, for a user with the db_owner Role on the Database)<br>- Proxy Server (Server Address and Port, if required for outbound internet connectivity)<br>- Name and Email Address|
+**Operating System**|Any one of:<br>- **Windows 8.1**<br>- **Windows 10**<br>- **Windows Server 2012 R2**<br>- **Windows Server 2016**|
+**SQL Server**|Any one of:<br>- **SQL Server 2014** (Express or better)<br>- **SQL Server 2016** (Express or better) [click here](SQL-Server-Setup.md) to install<br>- **Azure SQL Server and Database** (Basic Pricing tier or better) [click here](Procure-a-SQL-Server-Database.md) to create a database|
+**IIS with ASP.NET**|- **ASP.NET 4.5** (Express or better) [click here](Enable-IIS-and-NET-45.md) to verify or install|
+**Information**|- **SQL Server / Database** (host address and instance name)<br>- **Database Credentials** (login and password, for a user with the db_owner Role on the Database)<br>- **Proxy Server** (Server Address and Port, if required for outbound internet connectivity)<br>- **Name** and **Email Address**|
 
 ### Install HivePro
 1. Open the **Command Line** as Administrator
