@@ -6,5 +6,5 @@
 
 ---
 
-Proceed to: [Configure Integrations](Configure-Integrations.md)
+Proceed to: [Configure Integrations](Configure-Integrations.md#configure-integrations)
 <br>Back to: [Setup Procedures](README.md#setup-procedures)
