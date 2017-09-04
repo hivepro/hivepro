@@ -4,3 +4,5 @@
 1. Check: **Internet Information Services \ World Wide Web Services \ Application Development Features \ ASP.NET 4.5** (which also checks dependencies within **Application Development Features**)
 1. Check: **.NET Framework 4.5 Advanced Services \ ASP.NET 4.5**
 1. Click **OK**
+
+Back to: [Install the Application](install.md)
