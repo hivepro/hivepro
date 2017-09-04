@@ -4,5 +4,7 @@
 1. Optionally enter a **Description**
 1. Click **Submit**
 
+---
+
 Proceed to: [Configure Integrations](Configure-Integrations.md)
 <br>Back to: [Setup Procedures](README.md#setup-procedures)
