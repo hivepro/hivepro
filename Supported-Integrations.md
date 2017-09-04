@@ -1,6 +1,5 @@
 ## Supported Integrations / Data
 
-### GitHub
 Product|Table|Info|
 ------ | --- | -- |
 GitHub|Commits|[API](https://developer.github.com/v3/repos/commits/#list-commits-on-a-repository)|
