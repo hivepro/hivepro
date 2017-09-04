@@ -48,4 +48,4 @@ An On-Premise SQL Server may be used for evaluation and testing purposes.  Power
 
 ---
 
-Back to: [Install the Application](Install.md)
+Back to: [Install the Application](Install.md#verify-prerequisites)
