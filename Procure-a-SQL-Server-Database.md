@@ -32,4 +32,4 @@
 <br>`EXEC sp_addrolemember 'db_owner', 'hivepro';`
 
 Proceed to: [Install the Application](Install.md)
-Back to: [Setup Procedures](README.md#setup-procedures)
+<br>Back to: [Setup Procedures](README.md#setup-procedures)
