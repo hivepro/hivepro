@@ -5,11 +5,11 @@ This application, including all data and communication, is maintained within you
 
 ## Setup Procedures
 1. [Download the Installer](https://hivepro.github.io/Download/HivePro.msi) (2 min)
-1. [Create a SQL Server Database in Azure](Procure-a-SQL-Server-Database.md) (10 min)
-1. [Install the Application](Install.md) (5 min)
-1. [Add a Project](Add-a-Project.md) (1 min)
-1. [Configure Integrations](Configure-Integrations.md) (3 min / each)
-1. [Publish a PowerBI Dashboard](Publish-PowerBI-Dashboard.md) (5 min)
+1. [Create a SQL Server Database in Azure](Procure-a-SQL-Server-Database.md#create-a-sql-server-database-in-azure) (10 min)
+1. [Install the Application](Install.md#install-the-application) (5 min)
+1. [Add a Project](Add-a-Project.md#add-a-project) (1 min)
+1. [Configure Integrations](Configure-Integrations.md#configure-integrations) (3 min / each)
+1. [Publish a PowerBI Dashboard](Publish-PowerBI-Dashboard.md#publish-powerbi-dashboard) (5 min)
 
 ## Supported Integrations
 
