@@ -26,5 +26,5 @@ Requirement|Details|
 
 ---
 
-Proceed to: [Add a Project](Add-a-Project.md)
+Proceed to: [Add a Project](Add-a-Project.md#add-a-project)
 <br>Back to: [Setup Procedures](README.md#setup-procedures)
