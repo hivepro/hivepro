@@ -58,5 +58,5 @@ Within the Project Details page for a Project within the HivePro Web Application
 
 ---
 
-Proceed to: [Publish PowerBI Dashboard](Publish-PowerBI-Dashboard.md)
+Proceed to: [Publish PowerBI Dashboard](Publish-PowerBI-Dashboard.md#publish-powerbi-dashboard)
 <br>Back to: [Setup Procedures](README.md#setup-procedures)
