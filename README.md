@@ -4,8 +4,8 @@ Follow the step-by-step instructions to setup the application, connecting to a S
 This application, including all data and communication, is maintained within your network (it does not transmit data externally).
 
 ## Setup Procedures
-1. [Create a SQL Server Database in Azure](Procure-a-SQL-Server-Database.md)
 1. [Download the Installer](https://hivepro.github.io/Download/HivePro.msi)
+1. [Create a SQL Server Database in Azure](Procure-a-SQL-Server-Database.md)
 1. [Install the Application](Install.md)
 1. [Add a Project](Add-a-Project.md)
 1. [Configure Integrations](Configure-Integrations.md)
