@@ -45,3 +45,5 @@ Use of an On-Premises SQL Server may be used for evaluation and testing purposes
 1. Select **Security** from the list of pages on the left
 1. Select **SQL Server and Windows Authentication mode**
 1. Click **OK**
+
+Back to: [Install the Application](install.md)
