@@ -1,3 +1,8 @@
+---
+layout: default
+title: Supported Integrations / Data
+---
+
 ## Supported Integrations / Data
 
 Product|Table|Info|
