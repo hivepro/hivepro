@@ -1,3 +1,8 @@
+---
+layout: default
+title: Add a Project
+---
+
 ## Add a Project
 1. Within the **Projects** page, click **Add Project**
 1. Enter a **Name**
