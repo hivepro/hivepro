@@ -1,3 +1,8 @@
+---
+layout: default
+title: Configure Integrations
+---
+
 ## Configure Integrations
 
 Within the Project Details page for a Project within the HivePro Web Application, you may optionally add any number of Integrations to HivePro Projects.
