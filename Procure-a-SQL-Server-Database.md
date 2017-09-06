@@ -1,3 +1,8 @@
+---
+layout: default
+title: Create a SQL Server Database in Azure
+---
+
 ## Create a SQL Server Database in Azure
 
 ### Create Database
