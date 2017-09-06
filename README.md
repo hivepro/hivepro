@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 ## How it works
 Follow the step-by-step instructions to setup the application, connecting to a SQL Database hosted in Azure.  This provides a Web Application for configuration, and a Windows Service for automated data collection for the tools and projects that you choose.  At a specified frequency, the Service will collect the data from those tools, and store it to your database (there is no need for additional gateways or connectivity configuration).  Then download a PowerBI Dashboard template to build and publish reports.
 
